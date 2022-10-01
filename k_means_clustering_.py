@@ -4,7 +4,7 @@
 
 """
 This Project is based on Customer Segmentation using K-Means Clustering. 
-Customers will be partioned into k number of clusters, each cluster will contain customers with similar characteristics. 
+Customers will be partitioned into k number of clusters, each cluster will contain customers with similar characteristics. 
 """
 
 
